@@ -1,0 +1,6 @@
+{
+  "name": "npm-shrinkwrap-bug",
+  "dependencies": {
+    "left-pad": "stevemao/left-pad#37723f7"
+  }
+}
