@@ -3,8 +3,8 @@
   "dependencies": {
     "left-pad": {
       "version": "1.1.0",
-      "from": "stevemao/left-pad#37723f7",
-      "resolved": "git://github.com/stevemao/left-pad.git#37723f75f3a2cf99ce0b64bd14de6c2818cfb506"
+      "from": "stevemao/left-pad#qwe",
+      "resolved": "git://github.com/stevemao/left-pad.git#qwertyuiop"
     }
   }
 }
